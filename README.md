@@ -28,6 +28,8 @@ pages
    └─ four.md
 ```
 
+![ssg](https://user-images.githubusercontent.com/8418700/113306516-6ac9af00-9319-11eb-820f-1e5430b55269.png)
+
 *What is _index.md?*
 
 
